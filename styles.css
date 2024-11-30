@@ -98,6 +98,10 @@ td a:hover {
     }
 }
 
+section {
+    display: block;
+}
+
 .card {
     border: 1px solid #ddd;
     border-radius: 5px;
